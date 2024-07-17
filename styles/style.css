@@ -46,12 +46,16 @@
     color: #3A3A3A;
     font-weight: 600;
 }
+.hambar{
+    display: none;
+}
 
 /* Banner section styles */
 .banner{
     justify-content: space-between;
     align-items: center;
     margin-top: 50px;
+    padding: 20px;
 }
 .banner-title-container{
     max-width: 580px;

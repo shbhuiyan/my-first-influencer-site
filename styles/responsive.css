@@ -1,0 +1,13 @@
+@media screen and (max-width:576px) {
+    .nav-links{
+        display: none;
+    }
+    .hambar{
+        display: block;
+    }
+    .banner{
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 30px;
+    }
+}
